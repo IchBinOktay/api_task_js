@@ -1,0 +1,31 @@
+{
+  "music": [
+    {
+      "title": "Song Title 1",
+      "year": "2024-01-01",
+      "artist": "Artist Name 1",
+      "album": "Album Name 1",
+      "description": "Description of the song 1.",
+      "image": "https://images.unsplash.com/photo-1488372759477-a7f4aa078cb6?q=80&amp;w=1770&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Song Title 2",
+      "year": "2023-01-01",
+      "artist": "Artist Name 2",
+      "album": "Album Name 2",
+      "description": "Description of the song 2.",
+      "image": "https://images.unsplash.com/photo-1488372759477-a7f4aa078cb6?q=80&amp;w=1770&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Song Title 3",
+      "year": "2022-01-01",
+      "artist": "Artist Name 3",
+      "album": "Album Name 3",
+      "description": "Description of the song 3.",
+      "image": "https://images.unsplash.com/photo-1488372759477-a7f4aa078cb6?q=80&amp;w=1770&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.jpg"
+    }
+  ]
+}
